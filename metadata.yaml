@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3796
     wikipedia: http://en.wikipedia.org/wiki/Alice_Muriel_Williamson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34919#Vision-House
 gutenberg_issued: '2011-01-11'
 gutenberg_type: Text
 identifiers:
